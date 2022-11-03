@@ -8,8 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Faithlife.Build" Version="5.14.7" />
-    <PackageReference Include="NUnit.ConsoleRunner" Version="3.15.2" />
+    <PackageReference Include="Faithlife.Build" />
+    <PackageReference Include="NUnit.ConsoleRunner" />
   </ItemGroup>
 
 </Project>
